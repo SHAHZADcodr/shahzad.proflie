@@ -1,0 +1,24 @@
+body{
+background-color:lightgreen;
+border: solid black;
+}
+h1{
+    font-size: 35px;
+    color:black;
+}
+ol{
+    font-size: 25px;
+    color:black;
+}
+ul{
+    font-size: 25px;
+    color:black;
+}
+hr{
+    border: soldid black;
+    color:black;
+}
+pre{
+    font-size: 25px;
+    color:black;
+}
